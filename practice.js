@@ -220,5 +220,6 @@ onload = function () {
         return tmp_edges;
     }
 
+    
     genNew.click();
 };
